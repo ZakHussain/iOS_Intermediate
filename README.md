@@ -1,11 +1,10 @@
 # iOS_Intermediate
 
----
 ### (1) Adding_to_the_Beast_List
-
 This app is relatively simple in that it has a UI that gives the user a space to type 
 in something on their To-Do list. It then displays that on the screen. The User can 
 double tap it to remove it from the list.
+
 ---  
 ### (2) Bucket_list
 
